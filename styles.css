@@ -1,0 +1,87 @@
+body {
+    text-align: center;
+    background-image: url("http://school298.spb.ru/images/200/DSC100277118.jpg");
+    border: double #003366;
+}
+
+h1 {
+    font-family: 'MedievalSharp', cursive;
+    color: grey;
+    border: double;
+}
+
+h2 {
+    font-family: 'Almendra Display', cursive;
+    color: white;
+}
+
+.play {
+    height: 250px;
+    border: none;
+}
+
+p {
+    font-family: 'Almendra Display', cursive;
+    font-weight: bold;
+    font-size: 17px;
+    color: #eed7a1;
+}
+
+img {
+    height: 390px;
+     border: 5px inset #cd8b62;
+}
+
+.nominees {
+        border: groove pink;
+        color: pink;
+}
+
+.nominees2 {
+        border: groove red;
+        color: red;
+}
+
+.nominees3 {
+        border: groove #cfb53b;
+        color: #cfb53b;
+}
+
+.nominees4 {
+        border: groove #DDA0DD;
+        color: #DDA0DD;
+}
+
+ul {
+    font-family: 'Almendra Display', cursive;
+    font-size: 17px;
+    font-weight: bold;
+    color: #1bbc9b;
+    list-style-type: none;
+    border: groove #1bbc9b;
+}
+
+.winner {
+    font-family: 'Almendra SC', serif;
+    color: #cd8b62;
+}
+
+.RJ {
+    font-family: 'Almendra SC', serif;
+    color: pink;
+}
+
+.Mac {
+    font-family: 'Almendra SC', serif;
+    color: #990000;
+}
+
+.V {
+    font-family: 'Almendra SC', serif;
+    color: #cfb53b;
+}
+
+.Ham {
+    font-family: 'Almendra SC', serif;
+    color: #871f78;
+}
